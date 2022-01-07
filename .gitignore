@@ -1,4 +1,7 @@
 cpp_interface*
 
-./include
-./include/*
+include
+include/*
+
+lib
+lib/*
