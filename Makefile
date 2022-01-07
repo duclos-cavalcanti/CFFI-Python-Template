@@ -35,7 +35,7 @@ build: clean
 .PHONY: test
 test:
 	@echo -e '\n** TESTING PROJECT'
-	@python3 -m pytest -v --disable-pytest-warnings tests/
+	@python3 -m pytest -v tests/
 
 .PHONY: run
 run:
